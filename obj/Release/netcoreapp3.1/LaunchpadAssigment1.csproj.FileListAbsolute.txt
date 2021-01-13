@@ -1,0 +1,13 @@
+C:\Users\Fab\source\repos\LaunchpadAssigment1\LaunchpadAssigment1\bin\Release\netcoreapp3.1\LaunchpadAssigment1.exe
+C:\Users\Fab\source\repos\LaunchpadAssigment1\LaunchpadAssigment1\bin\Release\netcoreapp3.1\LaunchpadAssigment1.deps.json
+C:\Users\Fab\source\repos\LaunchpadAssigment1\LaunchpadAssigment1\bin\Release\netcoreapp3.1\LaunchpadAssigment1.runtimeconfig.json
+C:\Users\Fab\source\repos\LaunchpadAssigment1\LaunchpadAssigment1\bin\Release\netcoreapp3.1\LaunchpadAssigment1.runtimeconfig.dev.json
+C:\Users\Fab\source\repos\LaunchpadAssigment1\LaunchpadAssigment1\bin\Release\netcoreapp3.1\LaunchpadAssigment1.dll
+C:\Users\Fab\source\repos\LaunchpadAssigment1\LaunchpadAssigment1\bin\Release\netcoreapp3.1\LaunchpadAssigment1.pdb
+C:\Users\Fab\source\repos\LaunchpadAssigment1\LaunchpadAssigment1\obj\Release\netcoreapp3.1\LaunchpadAssigment1.csprojAssemblyReference.cache
+C:\Users\Fab\source\repos\LaunchpadAssigment1\LaunchpadAssigment1\obj\Release\netcoreapp3.1\LaunchpadAssigment1.AssemblyInfoInputs.cache
+C:\Users\Fab\source\repos\LaunchpadAssigment1\LaunchpadAssigment1\obj\Release\netcoreapp3.1\LaunchpadAssigment1.AssemblyInfo.cs
+C:\Users\Fab\source\repos\LaunchpadAssigment1\LaunchpadAssigment1\obj\Release\netcoreapp3.1\LaunchpadAssigment1.csproj.CoreCompileInputs.cache
+C:\Users\Fab\source\repos\LaunchpadAssigment1\LaunchpadAssigment1\obj\Release\netcoreapp3.1\LaunchpadAssigment1.dll
+C:\Users\Fab\source\repos\LaunchpadAssigment1\LaunchpadAssigment1\obj\Release\netcoreapp3.1\LaunchpadAssigment1.pdb
+C:\Users\Fab\source\repos\LaunchpadAssigment1\LaunchpadAssigment1\obj\Release\netcoreapp3.1\LaunchpadAssigment1.genruntimeconfig.cache

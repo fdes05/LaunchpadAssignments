@@ -1,0 +1,5 @@
+C:\Users\Fab\Documents\LaunchPad by VOG\Assignments\LaunchpadAssigment1.exe
+C:\Users\Fab\Documents\LaunchPad by VOG\Assignments\LaunchpadAssigment1.dll
+C:\Users\Fab\Documents\LaunchPad by VOG\Assignments\LaunchpadAssigment1.deps.json
+C:\Users\Fab\Documents\LaunchPad by VOG\Assignments\LaunchpadAssigment1.runtimeconfig.json
+C:\Users\Fab\Documents\LaunchPad by VOG\Assignments\LaunchpadAssigment1.pdb
